@@ -1,0 +1,13 @@
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\bin\Debug\netcoreapp3.1\MyArrayApp.exe
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\bin\Debug\netcoreapp3.1\MyArrayApp.deps.json
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\bin\Debug\netcoreapp3.1\MyArrayApp.runtimeconfig.json
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\bin\Debug\netcoreapp3.1\MyArrayApp.runtimeconfig.dev.json
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\bin\Debug\netcoreapp3.1\MyArrayApp.dll
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\bin\Debug\netcoreapp3.1\MyArrayApp.pdb
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\obj\Debug\netcoreapp3.1\MyArrayApp.csprojAssemblyReference.cache
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\obj\Debug\netcoreapp3.1\MyArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\obj\Debug\netcoreapp3.1\MyArrayApp.AssemblyInfoInputs.cache
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\obj\Debug\netcoreapp3.1\MyArrayApp.AssemblyInfo.cs
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\obj\Debug\netcoreapp3.1\MyArrayApp.dll
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\obj\Debug\netcoreapp3.1\MyArrayApp.pdb
+C:\Users\jackt\Desktop\Arrays\MyArrayApp\obj\Debug\netcoreapp3.1\MyArrayApp.genruntimeconfig.cache
